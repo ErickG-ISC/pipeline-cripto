@@ -3,7 +3,7 @@ import time
 import requests
 
 COINGECKO_URL = "https://api.coingecko.com/api/v3/coins/markets"
-SERVICE_URL = "https://TU-SERVICIO.onrender.com/procesar"  # <-- cámbialo
+SERVICE_URL = "https://pipeline-cripto.onrender.com//procesar"
 ITERACIONES = 3
 INTERVALO_SEG = 60
 
